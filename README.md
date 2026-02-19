@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">GameHub</h1>
 
 Welcome to the GameHub, a web application built using React, Chakra UI, React Query, Zustand, and the RAWG API. This platform allows users to explore and discover a wide range of video games, access detailed information about them, and stay up-to-date with the latest releases.
@@ -68,3 +69,21 @@ The Game Discovery Platform is open-source and licensed under the [MIT License](
 ---
 
 Thank you for exploring the Game Discovery Platform! I hope you enjoy discovering and playing amazing video games through this platform. If you encounter any issues or have suggestions for improvement, feel free to open an issue or contribute to the project. Happy gaming! 🎮
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+>>>>>>> 33c0d484ec3f25ac655f8d386edcbdb205175ed4
