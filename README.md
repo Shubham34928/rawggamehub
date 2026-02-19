@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<h1 align="center">GameHub</h1>
+
 
 Welcome to the GameHub, a web application built using React, Chakra UI, React Query, Zustand, and the RAWG API. This platform allows users to explore and discover a wide range of video games, access detailed information about them, and stay up-to-date with the latest releases.
 
